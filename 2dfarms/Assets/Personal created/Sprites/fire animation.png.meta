@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 4d2424648d0eb96418fb8417846b63b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3813296731522447160
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_0
+  - first:
+      213: -3832074721976572831
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_1
+  - first:
+      213: 7126047068006060180
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_3
+  - first:
+      213: -4186690316343466654
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_4
+  - first:
+      213: 3448123477000689738
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_5
+  - first:
+      213: 3840638940693129996
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_6
+  - first:
+      213: -39801890297604149
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_7
+  - first:
+      213: 849796989177413104
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_10
+  - first:
+      213: -2176328726999170523
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_12
+  - first:
+      213: -4675040549979233382
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_13
+  - first:
+      213: -2309086103944991502
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_19
+  - first:
+      213: -4367099914417097252
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_25
+  - first:
+      213: -674739697999685841
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_26
+  - first:
+      213: -5819783462196828096
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_27
+  - first:
+      213: -436899470765752165
+    second: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_0
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 475
+        width: 46
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837bd817c2d8be430800000000000000
+      internalID: 3813296731522447160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 475
+        width: 49
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16425d3f75cb1dac0800000000000000
+      internalID: -3832074721976572831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 475
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490173d8d0ec4e260800000000000000
+      internalID: 7126047068006060180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 476
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265a7cdd653e5e5c0800000000000000
+      internalID: -4186690316343466654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 477
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a489f4c88023adf20800000000000000
+      internalID: 3448123477000689738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 262
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0beb8a94c0bc4530800000000000000
+      internalID: 3840638940693129996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 263
+        width: 84
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc71c634468927ff0800000000000000
+      internalID: -39801890297604149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 261
+        width: 79
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdbd17fbd51bcb00800000000000000
+      internalID: 849796989177413104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 261
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5228cb0bd802cc1e0800000000000000
+      internalID: -2176328726999170523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 259
+        width: 67
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93e0f3a36bee1fb0800000000000000
+      internalID: -4675040549979233382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 53
+        width: 65
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc619a2c6a74ffd0800000000000000
+      internalID: -2309086103944991502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 58
+        width: 50
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5b78604c1f463c0800000000000000
+      internalID: -4367099914417097252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 59
+        width: 38
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27dfd0d1d7d2a6f0800000000000000
+      internalID: -674739697999685841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 60
+        width: 17
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a01296c9fb3fa0800000000000000
+      internalID: -5819783462196828096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-fire-flame-sheet-sprite-animation-set_53562-7100_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 50
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9083720f32dfe9f0800000000000000
+      internalID: -436899470765752165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

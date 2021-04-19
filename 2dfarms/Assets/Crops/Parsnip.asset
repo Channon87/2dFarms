@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5ed80bb686a1614881688f05db27941, type: 3}
+  m_Name: Parsnip
+  m_EditorClassIdentifier: 
+  timeToGrow: 4
+  yield: {fileID: 11400000, guid: 9e3124b34e0464c408a25b748e545193, type: 2}
+  count: 5
+  sprites:
+  - {fileID: 7041525069147447728, guid: 5a1df36ac90cfa242908df77f9674580, type: 3}
+  - {fileID: 7193783865090184285, guid: 5a1df36ac90cfa242908df77f9674580, type: 3}
+  - {fileID: -1439458858129775074, guid: 5a1df36ac90cfa242908df77f9674580, type: 3}
+  - {fileID: 8581157694013226927, guid: 5a1df36ac90cfa242908df77f9674580, type: 3}
+  growthStageTime: 01000000020000000300000004000000

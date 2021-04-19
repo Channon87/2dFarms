@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5ed80bb686a1614881688f05db27941, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: 
+  timeToGrow: 8
+  yield: {fileID: 11400000, guid: 770d00fda4f42fd428808ca2a5ffba0d, type: 2}
+  count: 6
+  sprites:
+  - {fileID: -6507400528489711219, guid: ddf0b019b05f76245a4f43013200bf36, type: 3}
+  - {fileID: 6413286974072789374, guid: ddf0b019b05f76245a4f43013200bf36, type: 3}
+  - {fileID: -6123060646502127560, guid: ddf0b019b05f76245a4f43013200bf36, type: 3}
+  - {fileID: -3070841750911791045, guid: ddf0b019b05f76245a4f43013200bf36, type: 3}
+  growthStageTime: 02000000040000000600000008000000
