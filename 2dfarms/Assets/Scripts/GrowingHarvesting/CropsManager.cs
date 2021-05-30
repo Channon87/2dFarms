@@ -39,9 +39,10 @@ public class CropsManager : TimeAgent
     [SerializeField] Tilemap targetTilemap;
     [SerializeField] GameObject cropsSpritePrefab;
 
-    Dictionary<Vector2Int, CropTile> crops;
+    public Dictionary<Vector2Int, CropTile> crops;
 
-    private void Start()
+
+    public void Start()
     {
         crops = new Dictionary<Vector2Int, CropTile>();
         onTimeTick += Tick;

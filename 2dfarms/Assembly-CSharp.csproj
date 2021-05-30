@@ -142,6 +142,9 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\Scripts\Interaction\SeedTile.cs" />
     <Compile Include="Assets\Scripts\PossiblyUnused\Itemselection.cs" />
+    <Compile Include="Assets\WorkInProgress\popupUI.cs" />
+    <Compile Include="Assets\Scripts\TimeLapse\sleepScript.cs" />
+    <Compile Include="Assets\siesta.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

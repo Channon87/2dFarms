@@ -12,15 +12,16 @@ public class DayTimeController : MonoBehaviour
     [SerializeField] Color nightLightColour;
     [SerializeField] AnimationCurve nightTimeCurve;
     [SerializeField] Color dayLightColor = Color.white;
-
-    float time;
+   
+    public static float time;
     [SerializeField] float timeScale = 60f;
     [SerializeField] float startAtTime = 28800f;
-    [SerializeField] Text text;
+    [SerializeField] Text clock;
+    [SerializeField] Text counter;
     [SerializeField] Light2D globalLight;
-    private int days;
-
-    List<TimeAgent> agents;
+    private int days = 1;
+    public float scale;
+     List<TimeAgent> agents;
 
     private void Awake()
     {
@@ -29,6 +30,7 @@ public class DayTimeController : MonoBehaviour
     private void Start()
     {
         time = startAtTime;
+        scale = timeScale;
     }
     public void Subscribe(TimeAgent timeAgent)
     {
@@ -59,7 +61,7 @@ public class DayTimeController : MonoBehaviour
         time += Time.deltaTime * timeScale;
         TimeValueCalculator();
         DayLight();
-
+        counter.text = "Day " + days;
         if (time > secondsInDay) { NextDay(); }
 
         TimeAgents();
@@ -71,7 +73,8 @@ public class DayTimeController : MonoBehaviour
     {
         int hh = (int)Hours;
         int mm = (int)Minutes;
-        text.text = hh.ToString("00") + ":" + mm.ToString("00");
+        clock.text = hh.ToString("00") + ":" + mm.ToString("00");
+
     }
 
     private void DayLight()
@@ -101,4 +104,18 @@ public class DayTimeController : MonoBehaviour
         time = 0;
         days += 1;
     }
+    public void TwoSpeed()
+    {
+        
+        timeScale = scale * 2;
+    }
+    public void TenSpeed()
+    {
+        timeScale = scale * 10;
+    }
+    public void Normal()
+    {
+        timeScale = scale;
+    }
 }
+
